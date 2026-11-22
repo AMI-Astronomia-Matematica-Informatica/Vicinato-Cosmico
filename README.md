@@ -1,12 +1,12 @@
 # Vicinato Cosmico
 **Analisi geometrica e temporale delle distanze nel Sistema Solare**
 
-Progetto del laboratorio digitale **AMI** (*Astronomia, Matematica, Informatica*) — a cura di **Massimiliano Santini**.
+Laboratorio digitale **AMI** (*Astronomia, Matematica, Informatica*) — a cura di **Massimiliano Santini**.
 
 ---
 
 ## Panoramica
-Analizzando la dinamica orbitale lungo un intero periodo sinodico Urano–Nettuno (**171 anni**, 62.607 giorni), il progetto dimostra come **Mercurio** sia in media il pianeta più vicino non solo alla Terra, ma a ciascuno degli altri pianeti del Sistema Solare.
+Analizzando la dinamica orbitale lungo un intero periodo sinodico Urano–Nettuno (**171 anni**, 62.607 giorni), si dimostra come **Mercurio** sia in media il pianeta più vicino non solo alla Terra, ma a ciascuno degli altri pianeti del Sistema Solare.
 
 ---
 
