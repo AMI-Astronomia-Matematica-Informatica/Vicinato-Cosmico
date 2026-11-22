@@ -16,10 +16,10 @@ Tutti i documenti sono impaginati in $\LaTeX$ e consultabili nella cartella [`/p
 * **[Vicinato Cosmico — Articolo Divulgativo](<./pdf/Vicinato Cosmico - Articolo Divulgativo.pdf>)** — Introduzione, scale planetarie, periodo sinodico, limiti dei modelli e risultati.
 * **[Formulazione Matematica — Orbite Circolari](<./pdf/Formulazione Matematica - Orbite Circolari.pdf>)** — Modello analitico semplificato e indice di vicinanza.
 * **[Formulazione Matematica — Orbite Ellittiche](<./pdf/Formulazione Matematica - Orbite Ellittiche.pdf>)** — Estensione analitica al moto kepleriano.
-* **[Equazione di Keplero](<./pdf/Equazione di Keplero.pdf>)** — Derivazione geometrica, anomalie e teorema di esistenza e unicità.
-* **[Metodo di Newton–Raphson](<./pdf/Metodo di Newton-Raphson.pdf>)** — Analisi della convergenza quadratica e verifica numerica (`float64`).
-* **[Analisi Codice — Orbite Circolari](<./pdf/Analisi Codice - Orbite Circolari.pdf>)** — Documentazione tecnica e complessità computazionale.
-* **[Analisi Codice — Orbite Ellittiche](<./pdf/Analisi Codice - Orbite Ellittiche.pdf>)** — Documentazione del risolutore vettoriale e confronto tra gli algoritmi.
+* **[Equazione di Keplero](<./pdf/Equazione di Keplero.pdf>)** — Derivazione geometrica, anomalie.
+* **[Metodo di Newton–Raphson](<./pdf/Metodo di Newton-Raphson.pdf>)** — Analisi della convergenza e verifica numerica (`float64`).
+* **[Analisi Codice — Orbite Circolari](<./pdf/Analisi Codice - Orbite Circolari.pdf>)** — Documentazione tecnica per orbite circolari.
+* **[Analisi Codice — Orbite Ellittiche](<./pdf/Analisi Codice - Orbite Ellittiche.pdf>)** — Documentazione tecnica per orbite ellittiche.
 * **[Codice Python — Orbite Circolari](<./pdf/Codice Python - Orbite Circolari.pdf>)** & **[Codice Python — Orbite Ellittiche](<./pdf/Codice Python - Orbite Ellittiche.pdf>)** — Listati sorgente completi.
 
 ---
