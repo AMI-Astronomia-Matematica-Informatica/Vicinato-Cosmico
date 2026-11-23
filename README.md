@@ -1,5 +1,5 @@
-Vicinato Cosmico
-**Analisi geometrica e temporale delle distanze nel Sistema Solare**
+**Vicinato Cosmico**
+Analisi geometrica e temporale delle distanze nel Sistema Solare
 
 Laboratorio digitale **AMI** (*Astronomia, Matematica, Informatica*) — a cura di **Massimiliano Santini**.
 
