@@ -20,8 +20,8 @@ Tutti i documenti sono impaginati in $\LaTeX$ e consultabili nella cartella [`/p
 * **[Metodo di Newton–Raphson](<./pdf/Metodo di Newton-Raphson.pdf>)** — Analisi della convergenza e verifica numerica (`float64`).
 * **[Analisi Codice — Orbite Circolari](<./pdf/Analisi Codice - Orbite Circolari.pdf>)** — Documentazione tecnica per orbite circolari.
 * **[Analisi Codice — Orbite Ellittiche](<./pdf/Analisi Codice - Orbite Ellittiche.pdf>)** — Documentazione tecnica per orbite ellittiche.
-* **[Codice Python — Orbite Circolari](<./pdf/Codice Python - Orbite Circolari.pdf>)
-* **[Codice Python — Orbite Ellittiche](<./pdf/Codice Python - Orbite Ellittiche.pdf>)** 
+* **[Codice Python — Orbite Circolari](<./pdf/Codice Python - Orbite Circolari.pdf>)** - Listato codice per calcolo percentuali (caso orbite circolari)
+* **[Codice Python — Orbite Ellittiche](<./pdf/Codice Python - Orbite Ellittiche.pdf>)** - Listato codice per calcolo percentuali (caso orbite ellittiche)
 
 ---
 
