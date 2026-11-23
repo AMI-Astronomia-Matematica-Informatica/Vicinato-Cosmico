@@ -13,11 +13,11 @@ Analizzando la dinamica orbitale lungo un intero periodo sinodico Urano–Nettun
 ## Documentazione (PDF)
 Tutti i documenti sono impaginati in $\LaTeX$ e consultabili nella cartella [`/pdf`](./pdf):
 
-* **[Vicinato Cosmico — Articolo Divulgativo](<./pdf/Vicinato Cosmico - Articolo Divulgativo.pdf>)** — Introduzione, scale planetarie, periodo sinodico, limiti dei modelli e risultati.
+* **[Vicinato Cosmico — Articolo Divulgativo](<./pdf/Vicinato Cosmico - Articolo Divulgativo.pdf>)** — Introduzione, scale planetarie, periodo sinodico, risultati e limiti dei modelli.
 * **[Formulazione Matematica — Orbite Circolari](<./pdf/Formulazione Matematica - Orbite Circolari.pdf>)** — Modello analitico semplificato e indice di vicinanza.
 * **[Formulazione Matematica — Orbite Ellittiche](<./pdf/Formulazione Matematica - Orbite Ellittiche.pdf>)** — Estensione analitica al moto kepleriano.
 * **[Equazione di Keplero](<./pdf/Equazione di Keplero.pdf>)** — Derivazione geometrica, anomalie.
-* **[Metodo di Newton–Raphson](<./pdf/Metodo di Newton-Raphson.pdf>)** — Analisi della convergenza e verifica numerica (`float64`).
+* **[Metodo di Newton–Raphson](<./pdf/Metodo di Newton-Raphson.pdf>)** — Analisi della convergenza e verifica numerica..
 * **[Analisi Codice — Orbite Circolari](<./pdf/Analisi Codice - Orbite Circolari.pdf>)** — Documentazione tecnica per orbite circolari.
 * **[Analisi Codice — Orbite Ellittiche](<./pdf/Analisi Codice - Orbite Ellittiche.pdf>)** — Documentazione tecnica per orbite ellittiche.
 * **[Codice Python — Orbite Circolari](<./pdf/Codice Python - Orbite Circolari.pdf>)** - Listato codice per calcolo percentuali (caso orbite circolari)
